@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Sahil Yadav!
-🌱 I’m currently learning Android Development
+🌱 I’m currently learning Android Development and Web Development
 
 <!--
 **Yadav106/Yadav106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
