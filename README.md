@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Sahil Yadav!
 - 🌱 I’m currently looking for ways to improve my knowledge in the domain of Full Stack Web Development!
-- 💬 Ask me about MERN
+- 💬 Ask me about MERN, MEAN and NextJS
 - 👯 I’m looking to collaborate on MERN and MEAN Open Source Projects
 - 🔭 I’m currently working with SecOps Solutions as an intern!
 
