@@ -9,8 +9,8 @@ A part time student, part time intern and a full time learner.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yadav106&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav106&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=yadav106&theme=tokyonight&hide_border=false)
-![](https://komarev.com/ghpvc/?username=yadav106)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yadav106&theme=tokyonight&hide_border=false) <br/> <br/>
+![](https://komarev.com/ghpvc/?username=yadav106&style=for-the-badge)
 
 <!--
 **Yadav106/Yadav106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
