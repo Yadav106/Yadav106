@@ -2,7 +2,8 @@
 - 🌱 I’m currently looking for ways to improve my knowledge in the domain of Full Stack Web Development!
 - 💬 Ask me about MERN, MEAN and NextJS
 - 👯 I’m looking to collaborate on MERN and MEAN Open Source Projects
-- 🔭 I’m currently working with SecOps Solutions as an intern!
+- 💻 I’ve worked at a cybersecurity based company as a full-stack intern for 1 year.
+- 🔭 Currently looking for more opportunities to further expand my skills and knowledge.
 
 A part time student, part time intern and a full time learner.
 
