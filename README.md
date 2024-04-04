@@ -7,7 +7,10 @@
 
 A part time student, part time intern and a full time learner.
 
-# 📊 GitHub Stats:
+## 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yadav106)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yadav106&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yadav106&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yadav106&theme=tokyonight&hide_border=false) <br/> <br/>
