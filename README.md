@@ -1,11 +1,8 @@
 ### Hi there 👋 My name is Sahil Yadav!
-- 🌱 I’m currently looking for ways to improve my knowledge in the domain of Full Stack Web Development!
+- 🌱 I’m currently working as an Associate Consultant at Oracle Financial Software Services
 - 💬 Ask me about MERN, MEAN and NextJS
 - 👯 I’m looking to collaborate on MERN and MEAN Open Source Projects
 - 💻 I’ve worked at a cybersecurity based company as a full-stack intern for 1 year.
-- 🔭 Currently looking for more opportunities to further expand my skills and knowledge.
-
-A part time student, part time intern and a full time learner.
 
 ## 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yadav106)](https://github.com/ryo-ma/github-profile-trophy)
